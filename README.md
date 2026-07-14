@@ -26,16 +26,6 @@ A static, semantic webpage built as part of the **Frontend Development Internshi
 - HTML5
 - CSS3 (Grid, Flexbox, custom properties)
 
-## 🚀 Getting Started
-
-1. Clone this repository
-2. Open `index.html` in your browser
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-open index.html
-```
 
 ## ✅ Quality Gate
 
